@@ -26,5 +26,6 @@ Your users should be able to:
   - The `input` field is empty
   - The email address is not formatted correctly
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+## Live Site 
+See live preview here: https://jonathancklee1.github.io/coming-soon-form-page/
 
